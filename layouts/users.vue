@@ -1,8 +1,11 @@
 <template>
-  <div>
-    <Header />
-    <nuxt/>
-  </div>
+    <div>
+        <Header />
+        <header>
+            USERS SECTION
+        </header>
+        <nuxt/>
+    </div>
 </template>
 
 <script>
